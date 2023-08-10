@@ -1,0 +1,1259 @@
+{
+    "characterId": "3b7afaccb4de0dbbcbb1875a468e3e9f",
+    "characterName": "bosseiro",
+    "level": 110,
+    "jobId": "86c10841b1e4ddc6db7bd2fbe5e11519",
+    "jobGrowId": "ba2ae3598c3af10c26562e073bc92060",
+    "jobName": "Agent",
+    "jobGrowName": "Neo: Hitman",
+    "adventureName": "Sagittarius88",
+    "guildId": "d39946124383cfdadea632db07e014ed",
+    "guildName": "NyankoDays",
+    "equipment": [
+        {
+            "slotId": "WEAPON",
+            "slotName": "Weapon",
+            "itemId": "1e60af95a9771bf5480b8613232a387f",
+            "itemName": "Aspect-Devoured Odachi",
+            "itemTypeId": "2e533040e5452283a43c5e62e82359d8",
+            "itemType": "Weapon",
+            "itemTypeDetailId": "5834198b77d0a16f7b33d4ed509e647a",
+            "itemTypeDetail": "Odachi",
+            "itemAvailableLevel": 105,
+            "itemRarity": "Epic",
+            "setItemId": null,
+            "setItemName": null,
+            "reinforce": 13,
+            "itemGradeName": "Superior",
+            "enchant": {
+                "status": [
+                    {
+                        "name": "Fire Dmg.",
+                        "value": 15
+                    },
+                    {
+                        "name": "Light Dmg.",
+                        "value": 15
+                    }
+                ]
+            },
+            "amplificationName": null,
+            "refine": 8,
+            "bakalInfo": {
+                "options": [
+                    {
+                        "buff": 1356,
+                        "explain": "Skill Atk. +7%\nHP -5% for 10 sec. if losing at least 1% of HP on hit",
+                        "explainDetail": "Skill Atk. +7%\nHP -5% for 10 sec. if losing at least 1% of HP on hit (Max Stacks: 3)"
+                    },
+                    {
+                        "buff": 1356,
+                        "explain": "Skill Atk. +7%\nMP -5% for 10 sec. if losing at least 1% of HP on hit",
+                        "explainDetail": "Skill Atk. +7%\nMP -5% for 10 sec. if losing at least 1% of HP on hit (Max Stacks: 3)"
+                    }
+                ]
+            },
+            "upgradeInfo": {
+                "itemId": "5e8a743066bca6b9b89f535ba246aea7",
+                "itemName": "Last Fiery Breath: Odachi"
+            },
+            "growInfo": {
+                "total": {
+                    "damage": 14784,
+                    "buff": 5530,
+                    "level": 311
+                },
+                "options": [
+                    {
+                        "level": 79,
+                        "expRate": 17.97,
+                        "explain": "Agent all Skill Atk. +10%",
+                        "explainDetail": "Agent all Skill Atk. +10%",
+                        "damage": 4131,
+                        "default": {
+                            "damage": 1482,
+                            "buff": 504
+                        },
+                        "buff": 1405
+                    },
+                    {
+                        "level": 77,
+                        "expRate": 20.92,
+                        "explain": "Agent Lv. 1 - 100 skills +1 level",
+                        "explainDetail": "Agent Lv. 1 - 100 skills +1 level (Awakening skills excluded)",
+                        "damage": 4091,
+                        "default": {
+                            "damage": 1482,
+                            "buff": 504
+                        },
+                        "buff": 1391
+                    },
+                    {
+                        "level": 77,
+                        "expRate": 5.93,
+                        "explain": "Max MP +5%",
+                        "explainDetail": "Max MP +5%",
+                        "damage": 3273,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1363
+                    },
+                    {
+                        "level": 78,
+                        "expRate": 10.21,
+                        "explain": "Evasion +8%",
+                        "explainDetail": "Evasion +8%",
+                        "damage": 3289,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1371
+                    }
+                ]
+            },
+            "engraveName": true
+        },
+        {
+            "slotId": "TITLE",
+            "slotName": "Title",
+            "itemId": "76d3a932eaae25e43423520376df78c5",
+            "itemName": "Festival's Climax Platinum Title [45Lv]",
+            "itemTypeId": "38f03f0d7b5adfb389219d40f652ab75",
+            "itemType": "Accessory",
+            "itemTypeDetailId": "9b715664be4af253f54728d417d6253d",
+            "itemTypeDetail": "Title",
+            "itemAvailableLevel": 1,
+            "itemRarity": "Rare",
+            "setItemId": null,
+            "setItemName": null,
+            "reinforce": 0,
+            "enchant": {
+                "status": [
+                    {
+                        "name": "Fire Dmg.",
+                        "value": 6
+                    },
+                    {
+                        "name": "Strength",
+                        "value": 25
+                    },
+                    {
+                        "name": "Intelligence",
+                        "value": 25
+                    },
+                    {
+                        "name": "Vitality",
+                        "value": 25
+                    },
+                    {
+                        "name": "Spirit",
+                        "value": 25
+                    }
+                ]
+            },
+            "amplificationName": null,
+            "refine": 0
+        },
+        {
+            "slotId": "JACKET",
+            "slotName": "Top",
+            "itemId": "ececb2b9b546907819fc5e90350e39a9",
+            "itemName": "Ent Spirit Top",
+            "itemTypeId": "5b334ee49bf5eba04d7a2f12be622867",
+            "itemType": "Armor",
+            "itemTypeDetailId": "33908b59239489b517f483b1d7fe23a3",
+            "itemTypeDetail": "Light Armor Top",
+            "itemAvailableLevel": 105,
+            "itemRarity": "Epic",
+            "setItemId": null,
+            "setItemName": null,
+            "reinforce": 10,
+            "itemGradeName": "Superior",
+            "enchant": {
+                "status": [
+                    {
+                        "name": "Physical Atk.",
+                        "value": 90
+                    },
+                    {
+                        "name": "Strength",
+                        "value": 60
+                    }
+                ]
+            },
+            "amplificationName": "Dimensional STR",
+            "refine": 0,
+            "machineRevolutionInfo": {
+                "options": [
+                    {
+                        "buff": 1291,
+                        "explain": "Chill stacks +4 when attacking\n\nFrostbloom level +1 for every 20 Chill stacks\n- Frostbloom Lv. 1: Max HP +200\n- Frostbloom Lv. 2: HP +230.1 per min. and Damage Value +1704\n- Frostbloom Lv. 3: 3% chance of Freeze for 3 sec. when attacking and Damage Value +1704\n- Frostbloom Lv. 4: Physical/Magical Def. +1400, Damage Value +1704\n- Frostbloom Lv. 5: Damage Value +1704",
+                        "explainDetail": "Chill stacks +4 when attacking (Cooldown: 0.1 sec. Max Stacks: 100)\n\nFrostbloom level +1 for every 20 Chill stacks (All effects applied, depending on the level)\n- Frostbloom Lv. 1: Max HP +200\n- Frostbloom Lv. 2: HP +230.1 per min. and Damage Value +1704\n- Frostbloom Lv. 3: 3% chance of Freeze for 3 sec. when attacking (Cooldown: 10 sec.) and Damage Value +1704\n- Frostbloom Lv. 4: Physical/Magical Def. +1400, Damage Value +1704\n- Frostbloom Lv. 5: Damage Value +1704"
+                    }
+                ]
+            },
+            "upgradeInfo": {
+                "itemId": "eca729fdbeafc84e08d5cec66ce90d6e",
+                "itemName": "Icebloom: Open Petals"
+            },
+            "growInfo": {
+                "transfer": true,
+                "total": {
+                    "damage": 12109,
+                    "buff": 5618,
+                    "level": 318
+                },
+                "options": [
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "Damage Value +2432 and all speed +6% for every 50 points of your highest Elemental Damage",
+                        "explainDetail": "Damage Value +2432 and all speed +6% for every 50 points of your highest Elemental Damage (Max Stacks: 4)",
+                        "damage": 3384,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 499
+                        },
+                        "buff": 1425
+                    },
+                    {
+                        "level": 79,
+                        "expRate": 40.08,
+                        "explain": "All Elemental Damage +10",
+                        "explainDetail": "All Elemental Damage +10",
+                        "damage": 3305,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1377
+                    },
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "If over 40% HP, Physical/Magical Def. +25,000 and Physical/Magical Critical -8%\nIf 40% or lower HP, Skill Atk. +8% and attacks restore HP +1,100 and MP +1,750.",
+                        "explainDetail": "If over 40% HP, Physical/Magical Def. +25,000 and Physical/Magical Critical -8%\nIf 40% or lower HP, Skill Atk. +8% and attacks restore HP +1,100 and MP +1,750. (Cooldown: 1 sec.)",
+                        "damage": 2115,
+                        "default": {
+                            "damage": 741,
+                            "buff": 504
+                        },
+                        "buff": 1439
+                    },
+                    {
+                        "level": 79,
+                        "expRate": 30.12,
+                        "explain": "Incoming Counterattack damage -20%",
+                        "explainDetail": "Incoming Counterattack damage -20%",
+                        "damage": 3305,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1377
+                    }
+                ]
+            }
+        },
+        {
+            "slotId": "SHOULDER",
+            "slotName": "Head/Shoulder",
+            "itemId": "faa8fead3e013c09fc2ce593cfa21ac7",
+            "itemName": "Manipulation",
+            "itemTypeId": "5b334ee49bf5eba04d7a2f12be622867",
+            "itemType": "Armor",
+            "itemTypeDetailId": "c5c1469d6bd17a6827005b760f780148",
+            "itemTypeDetail": "Light Armor Head/Shoulder",
+            "itemAvailableLevel": 105,
+            "itemRarity": "Epic",
+            "setItemId": null,
+            "setItemName": null,
+            "reinforce": 10,
+            "itemGradeName": "Superior",
+            "enchant": {
+                "explain": "Skill Atk. +2%",
+                "status": [
+                    {
+                        "name": "Strength",
+                        "value": 40
+                    },
+                    {
+                        "name": "Intelligence",
+                        "value": 40
+                    },
+                    {
+                        "name": "Vitality",
+                        "value": 40
+                    },
+                    {
+                        "name": "Spirit",
+                        "value": 40
+                    },
+                    {
+                        "name": "Physical Atk.",
+                        "value": 10
+                    },
+                    {
+                        "name": "Magical Atk.",
+                        "value": 10
+                    },
+                    {
+                        "name": "Independent Atk.",
+                        "value": 10
+                    },
+                    {
+                        "name": "Physical Critical Chance",
+                        "value": "5%"
+                    },
+                    {
+                        "name": "Magical Critical Chance",
+                        "value": "5%"
+                    }
+                ]
+            },
+            "amplificationName": "Dimensional STR",
+            "refine": 0,
+            "machineRevolutionInfo": {
+                "options": [
+                    {
+                        "damage": 3756,
+                        "buff": 1063,
+                        "explain": "Lv. 40 skills increase Lv. 40 skills' cooldown recovery +15% when cast.\n- Lv. 40 skills resets this effect at the max stacks when cast.\n- Creator: Effect only applied to the Protection skills\n\nLv. 75 skills increase Lv. 75 skills' cooldown recovery +15% when cast.\n- Lv. 75 skills resets this effect at the max stacks when cast.\n- Creator: Effect only applied to the Tuning skills",
+                        "explainDetail": "Lv. 40 skills increase Lv. 40 skills' cooldown recovery +15% when cast. (Max Stacks: 3)\n- Lv. 40 skills resets this effect at the max stacks when cast.\n- Creator: Effect only applied to the Protection skills\n\nLv. 75 skills increase Lv. 75 skills' cooldown recovery +15% when cast. (Max Stacks: 3)\n- Lv. 75 skills resets this effect at the max stacks when cast.\n- Creator: Effect only applied to the Tuning skills"
+                    }
+                ]
+            },
+            "upgradeInfo": {
+                "itemId": "869aafd0d3264b77a8306644948345c0",
+                "itemName": "Communion: Welcoming Sunlight"
+            },
+            "growInfo": {
+                "total": {
+                    "damage": 12527,
+                    "buff": 5524,
+                    "level": 310
+                },
+                "options": [
+                    {
+                        "level": 78,
+                        "expRate": 35.5,
+                        "explain": "Skills increase Damage Value +6167 and Skill Atk. +10% for 40 sec. at the cost of 30% of remaining HP.",
+                        "explainDetail": "Skills increase Damage Value +6167 and Skill Atk. +10% for 40 sec. at the cost of 30% of remaining HP. (Cooldown: 30 sec. HP can't go below 1% because of this option.)",
+                        "damage": 2990,
+                        "default": {
+                            "damage": 1078,
+                            "buff": 504
+                        },
+                        "buff": 1399
+                    },
+                    {
+                        "level": 77,
+                        "expRate": 19.23,
+                        "explain": "If 90% or lower HP, attacks restore 2% HP.",
+                        "explainDetail": "If 90% or lower HP, attacks restore 2% HP. (Cooldown: 5 sec.)",
+                        "damage": 2975,
+                        "default": {
+                            "damage": 1078,
+                            "buff": 504
+                        },
+                        "buff": 1391
+                    },
+                    {
+                        "level": 76,
+                        "expRate": 85.14,
+                        "explain": "Skill MP cost -7%",
+                        "explainDetail": "Skill MP cost -7%",
+                        "damage": 3257,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1357
+                    },
+                    {
+                        "level": 79,
+                        "expRate": 17.05,
+                        "explain": "Physical/Magical Critical Chances +5%",
+                        "explainDetail": "Physical/Magical Critical Chances +5%",
+                        "damage": 3305,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1377
+                    }
+                ]
+            }
+        },
+        {
+            "slotId": "PANTS",
+            "slotName": "Bottom",
+            "itemId": "04c9c0ffbfd89c9ec17c496dfdc1a2bc",
+            "itemName": "Robotic Combat Pants",
+            "itemTypeId": "5b334ee49bf5eba04d7a2f12be622867",
+            "itemType": "Armor",
+            "itemTypeDetailId": "f45d5f33baf12a90bfcc68c79a69bcd9",
+            "itemTypeDetail": "Light Armor Bottom",
+            "itemAvailableLevel": 105,
+            "itemRarity": "Epic",
+            "setItemId": null,
+            "setItemName": null,
+            "reinforce": 10,
+            "itemGradeName": "Superior",
+            "enchant": {
+                "status": [
+                    {
+                        "name": "Physical Atk.",
+                        "value": 90
+                    },
+                    {
+                        "name": "Strength",
+                        "value": 60
+                    }
+                ]
+            },
+            "amplificationName": "Dimensional STR",
+            "refine": 0,
+            "machineRevolutionInfo": {
+                "options": [
+                    {
+                        "buff": 1291,
+                        "explain": "Attacking Slowed enemies Immobilizes them for 5 sec.\n\nEnemies in Abnormal statuses in 500 px around you increase Damage Value +6213, Attack Speed +8%, and Casting Speed +12% for 20 sec.\n\nImmobility Tolerance +10%\nCurse Tolerance +10%\nSlow Tolerance +10%",
+                        "explainDetail": "Attacking Slowed enemies Immobilizes them for 5 sec. (Cooldown: 10 sec.)\n\nEnemies in Abnormal statuses in 500 px around you increase Damage Value +6213, Attack Speed +8%, and Casting Speed +12% for 20 sec. (Max Stacks: 1)\n\nImmobility Tolerance +10%\nCurse Tolerance +10%\nSlow Tolerance +10%"
+                    }
+                ]
+            },
+            "upgradeInfo": {
+                "itemId": "4275d195037f7d940ed430ad81cae4e1",
+                "itemName": "Predation: Unbeating Heart"
+            },
+            "growInfo": {
+                "total": {
+                    "damage": 11041,
+                    "buff": 5396,
+                    "level": 311
+                },
+                "options": [
+                    {
+                        "level": 78,
+                        "expRate": 57.77,
+                        "explain": "Damage Value +377 and Skill Atk. +0.2% for every 6 Reinforcement/Amplification levels by equipped weapons, armor, accessories, and Special Equipment",
+                        "explainDetail": "Damage Value +377 and Skill Atk. +0.2% for every 6 Reinforcement/Amplification levels by equipped weapons, armor, accessories, and Special Equipment (Max Stacks: 24. Insignias and sub weapons excluded.)",
+                        "damage": 2242,
+                        "default": {
+                            "damage": 808,
+                            "buff": 480
+                        },
+                        "buff": 1332
+                    },
+                    {
+                        "level": 79,
+                        "expRate": 10.89,
+                        "explain": "All speeds +2% for every Reinforcement/Amplification level of this equipment while equipped",
+                        "explainDetail": "All speeds +2% for every Reinforcement/Amplification level of this equipment while equipped (Max Stacks: 12)",
+                        "damage": 2253,
+                        "default": {
+                            "damage": 808,
+                            "buff": 480
+                        },
+                        "buff": 1338
+                    },
+                    {
+                        "level": 77,
+                        "expRate": 51.42,
+                        "explain": "Physical Def. +7,000\nMagical Def. +7,000",
+                        "explainDetail": "Physical Def. +7,000\nMagical Def. +7,000",
+                        "damage": 3273,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1363
+                    },
+                    {
+                        "level": 77,
+                        "expRate": 29.82,
+                        "explain": "All Elemental Damage +10",
+                        "explainDetail": "All Elemental Damage +10",
+                        "damage": 3273,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1363
+                    }
+                ]
+            }
+        },
+        {
+            "slotId": "SHOES",
+            "slotName": "Shoes",
+            "itemId": "106c1448da71a3b0de72eaa1e5620fc6",
+            "itemName": "Cybernetic Speed Boots",
+            "itemTypeId": "5b334ee49bf5eba04d7a2f12be622867",
+            "itemType": "Armor",
+            "itemTypeDetailId": "0f7a29dab64328554d325967d586f820",
+            "itemTypeDetail": "Light Armor Shoes",
+            "itemAvailableLevel": 105,
+            "itemRarity": "Epic",
+            "setItemId": null,
+            "setItemName": null,
+            "reinforce": 10,
+            "itemGradeName": "Superior",
+            "enchant": {
+                "status": [
+                    {
+                        "name": "Strength",
+                        "value": 100
+                    }
+                ]
+            },
+            "amplificationName": "Dimensional STR",
+            "refine": 0,
+            "machineRevolutionInfo": {
+                "options": [
+                    {
+                        "buff": 1291,
+                        "explain": "Chill stacks +15 when dashing\n\nFrostbloom level +1 for every 20 Chill stacks\n- Frostbloom Lv. 1: Movement Speed +3%\n- Frostbloom Lv. 2: MP +174 per min. and Damage Value +1704\n- Frostbloom Lv. 3: Skills create a 15% chance of Freezing all surrounding enemies in 500 px for 5 sec. Damage Value +1704\n- Frostbloom Lv. 4: Physical/Magical Def. +1400, Damage Value +1704\n- Frostbloom Lv. 5: Damage Value +1704",
+                        "explainDetail": "Chill stacks +15 when dashing (Cooldown: 1 sec. Max Stacks: 100)\n\nFrostbloom level +1 for every 20 Chill stacks (All effects applied, depending on the level)\n- Frostbloom Lv. 1: Movement Speed +3%\n- Frostbloom Lv. 2: MP +174 per min. and Damage Value +1704\n- Frostbloom Lv. 3: Skills create a 15% chance of Freezing all surrounding enemies in 500 px for 5 sec. (Cooldown: 15 sec.) Damage Value +1704\n- Frostbloom Lv. 4: Physical/Magical Def. +1400, Damage Value +1704\n- Frostbloom Lv. 5: Damage Value +1704"
+                    }
+                ]
+            },
+            "upgradeInfo": {
+                "itemId": "8b72b46b1fe707388e224d879d038aea",
+                "itemName": "Icebloom: Vast Permafrost"
+            },
+            "growInfo": {
+                "total": {
+                    "damage": 7356,
+                    "buff": 5465,
+                    "level": 313
+                },
+                "options": [
+                    {
+                        "level": 78,
+                        "expRate": 54.94,
+                        "explain": "Applies the following, depending on the total of Attack Speed options (+/-) on your equipped armor, accessories, and Special Equipment.\n- 100 to below 120%: Skill Atk. +10%\n- 120 to below 140%: Skill Atk. +20%\n- 140% or more: Skill Atk. +30%",
+                        "explainDetail": "Applies the following, depending on the total of Attack Speed options (+/-) on your equipped armor, accessories, and Special Equipment. (Avatars, emblems, gems, Creatures, and titles included)\n- 100 to below 120%: Skill Atk. +10%\n- 120 to below 140%: Skill Atk. +20%\n- 140% or more: Skill Atk. +30%",
+                        "damage": 374,
+                        "default": {
+                            "damage": 135,
+                            "buff": 490
+                        },
+                        "buff": 1359
+                    },
+                    {
+                        "level": 77,
+                        "expRate": 95.2,
+                        "explain": "Skill MP cost -50%\nIncoming damage +15%",
+                        "explainDetail": "Skill MP cost -50%\nIncoming damage +15%",
+                        "damage": 372,
+                        "default": {
+                            "damage": 135,
+                            "buff": 490
+                        },
+                        "buff": 1352
+                    },
+                    {
+                        "level": 79,
+                        "expRate": 12.65,
+                        "explain": "HP +460.2 per min.",
+                        "explainDetail": "HP +460.2 per min.",
+                        "damage": 3305,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1377
+                    },
+                    {
+                        "level": 79,
+                        "expRate": 7.63,
+                        "explain": "MP +348 per min.",
+                        "explainDetail": "MP +348 per min.",
+                        "damage": 3305,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1377
+                    }
+                ]
+            }
+        },
+        {
+            "slotId": "WAIST",
+            "slotName": "Belt",
+            "itemId": "27af17872af8072bf20321fd0628ecf6",
+            "itemName": "Power Plant",
+            "itemTypeId": "5b334ee49bf5eba04d7a2f12be622867",
+            "itemType": "Armor",
+            "itemTypeDetailId": "178d85434313f6a1868d075d5e196a3a",
+            "itemTypeDetail": "Light Armor Waist",
+            "itemAvailableLevel": 105,
+            "itemRarity": "Epic",
+            "setItemId": null,
+            "setItemName": null,
+            "reinforce": 10,
+            "itemGradeName": "Superior",
+            "enchant": {
+                "status": [
+                    {
+                        "name": "Strength",
+                        "value": 100
+                    }
+                ]
+            },
+            "amplificationName": "Dimensional STR",
+            "refine": 0,
+            "machineRevolutionInfo": {
+                "options": [
+                    {
+                        "buff": 1291,
+                        "explain": "Attacking Bleeds or Burns enemies for 20 sec.\nIf 10% or more MP, all Elemental Damage +25\n\nImmobility Tolerance +10%\nCurse Tolerance +10%\nSlow Tolerance +10%",
+                        "explainDetail": "Attacking Bleeds or Burns enemies for 20 sec. (Cooldown: 5 sec.)\nIf 10% or more MP, all Elemental Damage +25\n\nImmobility Tolerance +10%\nCurse Tolerance +10%\nSlow Tolerance +10%"
+                    }
+                ]
+            },
+            "upgradeInfo": {
+                "itemId": "a8d07b718c660c0ce132a7201ff12b4d",
+                "itemName": "Predation: Tightening Noose"
+            },
+            "growInfo": {
+                "total": {
+                    "damage": 17693,
+                    "buff": 5431,
+                    "level": 308
+                },
+                "options": [
+                    {
+                        "level": 77,
+                        "expRate": 30.73,
+                        "explain": "If below 50% HP, cooldown recovery +15% and Skill Atk. +6%",
+                        "explainDetail": "If below 50% HP, cooldown recovery +15% (Awakening skills excluded) and Skill Atk. +6%",
+                        "damage": 5579,
+                        "default": {
+                            "damage": 2021,
+                            "buff": 490
+                        },
+                        "buff": 1352
+                    },
+                    {
+                        "level": 76,
+                        "expRate": 16.9,
+                        "explain": "If below 50% HP, attacks restore HP/MP +2,000.",
+                        "explainDetail": "If below 50% HP, attacks restore HP/MP +2,000. (Cooldown: 1 sec.)",
+                        "damage": 5552,
+                        "default": {
+                            "damage": 2021,
+                            "buff": 490
+                        },
+                        "buff": 1345
+                    },
+                    {
+                        "level": 78,
+                        "expRate": 43.79,
+                        "explain": "Skill MP cost -7%",
+                        "explainDetail": "Skill MP cost -7%",
+                        "damage": 3289,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1371
+                    },
+                    {
+                        "level": 77,
+                        "expRate": 18.74,
+                        "explain": "Attack Speed +8%\nCasting Speed +12%",
+                        "explainDetail": "Attack Speed +8%\nCasting Speed +12%",
+                        "damage": 3273,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1363
+                    }
+                ]
+            }
+        },
+        {
+            "slotId": "AMULET",
+            "slotName": "Necklace",
+            "itemId": "758adc7c1cad2bdff863f71f79928a05",
+            "itemName": "Black Star",
+            "itemTypeId": "38f03f0d7b5adfb389219d40f652ab75",
+            "itemType": "Accessory",
+            "itemTypeDetailId": "fef9b57699a28a119e3f69d4cd3ea977",
+            "itemTypeDetail": "Necklace",
+            "itemAvailableLevel": 105,
+            "itemRarity": "Epic",
+            "setItemId": null,
+            "setItemName": null,
+            "reinforce": 10,
+            "itemGradeName": "Superior",
+            "enchant": {
+                "status": [
+                    {
+                        "name": "Fire Dmg.",
+                        "value": 35
+                    },
+                    {
+                        "name": "Light Dmg.",
+                        "value": 35
+                    }
+                ]
+            },
+            "amplificationName": "Dimensional STR",
+            "refine": 0,
+            "ispinsInfo": {
+                "options": [
+                    {
+                        "buff": 1405,
+                        "explain": "Damage Value +7,815 at 90,000 or more combined Physical/Magical Def.\n\nPhysical/Magical Def. +14,000\n\nPhysical/Magical Def. -2,800 if losing at least 1% of HP on hit",
+                        "explainDetail": "Damage Value +7,815 at 90,000 or more combined Physical/Magical Def.\n\nPhysical/Magical Def. +14,000\n\nPhysical/Magical Def. -2,800 if losing at least 1% of HP on hit (Max Stacks: 5)\n- Physical/Magical Def. Reduction stacks -1 if not attacked for 2 sec."
+                    }
+                ]
+            },
+            "upgradeInfo": {
+                "itemId": "d9e73f6f2cd625f80f42cd30b18816b9",
+                "itemName": "Empyrean Allied Forces: A Prayer for Everyone"
+            },
+            "growInfo": {
+                "total": {
+                    "damage": 14110,
+                    "buff": 5542,
+                    "level": 319
+                },
+                "options": [
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "If 80% or more HP, Damage Value +1269\nIf 50 to below 80% HP, Damage Value +7614\nIf below 50% HP, Damage Value +7614 and Skill Atk. +7%",
+                        "explainDetail": "If 80% or more HP, Damage Value +1269\nIf 50 to below 80% HP, Damage Value +7614\nIf below 50% HP, Damage Value +7614 and Skill Atk. +7%",
+                        "damage": 3076,
+                        "default": {
+                            "damage": 1078,
+                            "buff": 475
+                        },
+                        "buff": 1356
+                    },
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "If below 50% HP, all speeds +20%",
+                        "explainDetail": "If below 50% HP, all speeds +20%",
+                        "damage": 3076,
+                        "default": {
+                            "damage": 1078,
+                            "buff": 475
+                        },
+                        "buff": 1356
+                    },
+                    {
+                        "level": 79,
+                        "expRate": 71.77,
+                        "explain": "Hit Rate +10%",
+                        "explainDetail": "Hit Rate +10%",
+                        "damage": 3305,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1377
+                    },
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "All Elemental Damage +15\nAll Elemental Resistances -10",
+                        "explainDetail": "All Elemental Damage +15\nAll Elemental Resistances -10",
+                        "damage": 4653,
+                        "default": {
+                            "damage": 1630,
+                            "buff": 509
+                        },
+                        "buff": 1453
+                    }
+                ]
+            }
+        },
+        {
+            "slotId": "WRIST",
+            "slotName": "Bracelet",
+            "itemId": "bc2ceb694dcc9c00fe0ff3ce648b608c",
+            "itemName": "Suppressed Mana Bracelet",
+            "itemTypeId": "38f03f0d7b5adfb389219d40f652ab75",
+            "itemType": "Accessory",
+            "itemTypeDetailId": "03e2a2ee03768162051aa6bb21f3f9f5",
+            "itemTypeDetail": "Bracelet",
+            "itemAvailableLevel": 105,
+            "itemRarity": "Epic",
+            "setItemId": null,
+            "setItemName": null,
+            "reinforce": 10,
+            "itemGradeName": "Superior",
+            "enchant": {
+                "status": [
+                    {
+                        "name": "Fire Dmg.",
+                        "value": 35
+                    },
+                    {
+                        "name": "Light Dmg.",
+                        "value": 35
+                    }
+                ]
+            },
+            "amplificationName": "Dimensional STR",
+            "refine": 0,
+            "ispinsInfo": {
+                "options": [
+                    {
+                        "buff": 1405,
+                        "explain": "Damage Value +7,815 at 220,000 or more combined Max HP/MP\n\nMax HP +1,200 and Max MP +1,890\n\nMax HP -240 and Max MP -378 if losing at least 1% of HP on hit",
+                        "explainDetail": "Damage Value +7,815 at 220,000 or more combined Max HP/MP\n\nMax HP +1,200 and Max MP +1,890\n\nMax HP -240 and Max MP -378 if losing at least 1% of HP on hit (Max Stacks: 5)\n- Max HP/MP Reduction stacks -1 if not attacked for 2 sec."
+                    }
+                ]
+            },
+            "upgradeInfo": {
+                "itemId": "a4c543a924286682d5450db840c9c157",
+                "itemName": "Empyrean Allied Forces: Dogged Determination"
+            },
+            "growInfo": {
+                "total": {
+                    "damage": 15996,
+                    "buff": 5614,
+                    "level": 320
+                },
+                "options": [
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "Consumes 99% of HP and restricts 99% of max usable HP upon entering dungeons.\nIncoming damage consumes MP before HP.\nRestores MP by 25% of HP healed by equipment and HP-healing skills.",
+                        "explainDetail": "Consumes 99% of HP and restricts 99% of max usable HP upon entering dungeons. (HP can't be restored past this restriction.)\nIncoming damage consumes MP before HP.\nRestores MP by 25% of HP healed by equipment and HP-healing skills.",
+                        "damage": 4614,
+                        "default": {
+                            "damage": 1616,
+                            "buff": 490
+                        },
+                        "buff": 1397
+                    },
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "Max MP +4,196\nDamage Value +7614 and Skill Atk. +15% upon entering dungeons",
+                        "explainDetail": "Max MP +4,196\nDamage Value +7614 and Skill Atk. +15% upon entering dungeons",
+                        "damage": 4614,
+                        "default": {
+                            "damage": 1616,
+                            "buff": 490
+                        },
+                        "buff": 1397
+                    },
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "MP +348 per min.",
+                        "explainDetail": "MP +348 per min.",
+                        "damage": 3384,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1410
+                    },
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "Physical Def. +7,000\nMagical Def. +7,000",
+                        "explainDetail": "Physical Def. +7,000\nMagical Def. +7,000",
+                        "damage": 3384,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1410
+                    }
+                ]
+            }
+        },
+        {
+            "slotId": "RING",
+            "slotName": "Ring",
+            "itemId": "9b3506c32711d8f3c3fa94a433211f81",
+            "itemName": "Golem's Centrum Ring",
+            "itemTypeId": "38f03f0d7b5adfb389219d40f652ab75",
+            "itemType": "Accessory",
+            "itemTypeDetailId": "358aaf117e8a05d30d889d885446cde4",
+            "itemTypeDetail": "Ring",
+            "itemAvailableLevel": 105,
+            "itemRarity": "Epic",
+            "setItemId": null,
+            "setItemName": null,
+            "reinforce": 10,
+            "itemGradeName": "Superior",
+            "enchant": {
+                "status": [
+                    {
+                        "name": "Fire Dmg.",
+                        "value": 35
+                    },
+                    {
+                        "name": "Light Dmg.",
+                        "value": 35
+                    }
+                ]
+            },
+            "amplificationName": "Dimensional STR",
+            "refine": 0,
+            "ispinsInfo": {
+                "options": [
+                    {
+                        "buff": 1518,
+                        "explain": "MP -5,000 if losing at least 1% of HP on hit\n\nDamage Value +1,876 for every 4% of current MP\n\nEquipment's MP healing amounts +10% for 10 sec. for every 5,000 MP loss by skills",
+                        "explainDetail": "MP -5,000 if losing at least 1% of HP on hit (Cooldown: 0.5 sec.)\n\nDamage Value +1,876 for every 4% of current MP (Max Stacks: 5)\n\nEquipment's MP healing amounts +10% for 10 sec. for every 5,000 MP loss by skills (Max Stacks: 1)"
+                    }
+                ]
+            },
+            "upgradeInfo": {
+                "itemId": "6fd7911e7bb665ea44ed9c816243a1e0",
+                "itemName": "Black Dragon: Bridle of Endless Darkness"
+            },
+            "growInfo": {
+                "total": {
+                    "damage": 17842,
+                    "buff": 5404,
+                    "level": 312
+                },
+                "options": [
+                    {
+                        "level": 77,
+                        "expRate": 49.25,
+                        "explain": "If below 30% HP, Damage Value +1227 every 2 sec.\nSkill Atk. +4% at 3 Damage Value stacks\nDamage Value stacks -1 if losing at least 1% of HP on hit",
+                        "explainDetail": "If below 30% HP, Damage Value +1227 every 2 sec. (Max Stacks: 3)\nSkill Atk. +4% at 3 Damage Value stacks\nDamage Value stacks -1 if losing at least 1% of HP on hit (Cooldown: 1 sec.)",
+                        "damage": 5579,
+                        "default": {
+                            "damage": 2021,
+                            "buff": 475
+                        },
+                        "buff": 1312
+                    },
+                    {
+                        "level": 78,
+                        "expRate": 39.32,
+                        "explain": "If below 30% HP, Physical/Magical Def. +4,000 every 2 sec.\nSkill Atk. +4% at 3 Physical/Magical Def. stacks\nPhysical/Magical Def. stacks -1 if losing at least 1% of HP on hit",
+                        "explainDetail": "If below 30% HP, Physical/Magical Def. +4,000 every 2 sec. (Max Stacks: 3)\nSkill Atk. +4% at 3 Physical/Magical Def. stacks\nPhysical/Magical Def. stacks -1 if losing at least 1% of HP on hit (Cooldown: 1 sec.)",
+                        "damage": 5606,
+                        "default": {
+                            "damage": 2021,
+                            "buff": 475
+                        },
+                        "buff": 1319
+                    },
+                    {
+                        "level": 77,
+                        "expRate": 86.89,
+                        "explain": "Hit Rate +10%",
+                        "explainDetail": "Hit Rate +10%",
+                        "damage": 3273,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1363
+                    },
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "Evasion +8%",
+                        "explainDetail": "Evasion +8%",
+                        "damage": 3384,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1410
+                    }
+                ]
+            }
+        },
+        {
+            "slotId": "SUPPORT",
+            "slotName": "Sub Equipment",
+            "itemId": "45a1ebf506c421cdb147f8ea2576b17c",
+            "itemName": "Ent Spirit Holy Grail",
+            "itemTypeId": "0013a170b9896b4f00054280030cd383",
+            "itemType": "Additional Equipment",
+            "itemTypeDetailId": "8310cb00b4baf408f7b0d2a3bad13637",
+            "itemTypeDetail": "Sub Equipment",
+            "itemAvailableLevel": 105,
+            "itemRarity": "Epic",
+            "setItemId": null,
+            "setItemName": null,
+            "reinforce": 12,
+            "itemGradeName": "Superior",
+            "enchant": {
+                "status": [
+                    {
+                        "name": "Physical Critical Chance",
+                        "value": "3%"
+                    },
+                    {
+                        "name": "Magical Critical Chance",
+                        "value": "3%"
+                    },
+                    {
+                        "name": "All Elemental Damage",
+                        "value": 12
+                    },
+                    {
+                        "name": "Damage Value",
+                        "value": 3
+                    }
+                ]
+            },
+            "amplificationName": "Dimensional STR",
+            "refine": 0,
+            "growInfo": {
+                "transfer": true,
+                "total": {
+                    "damage": 8883,
+                    "buff": 5698,
+                    "level": 320
+                },
+                "options": [
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "Skill Atk. +5% while attacking Burned enemies",
+                        "explainDetail": "Skill Atk. +5% while attacking Burned enemies",
+                        "damage": 1269,
+                        "default": {
+                            "damage": 445,
+                            "buff": 504
+                        },
+                        "buff": 1439
+                    },
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "If more than 40% HP, Shadow Resistance +40\nIf 40% or lower HP, Attack Speed +15%, Casting Speed +22.5%",
+                        "explainDetail": "If more than 40% HP, Shadow Resistance +40\nIf 40% or lower HP, Attack Speed +15%, Casting Speed +22.5%",
+                        "damage": 3384,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1410
+                    },
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "Skill Atk. +7% when attacking Machine enemies",
+                        "explainDetail": "Skill Atk. +7% when attacking Machine enemies",
+                        "damage": 846,
+                        "default": {
+                            "damage": 296,
+                            "buff": 504
+                        },
+                        "buff": 1439
+                    },
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "If more than 40% HP, Fire Resistance +40\nIf 40% or lower HP, Skill Atk. +5%",
+                        "explainDetail": "If more than 40% HP, Fire Resistance +40\nIf 40% or lower HP, Skill Atk. +5%",
+                        "damage": 3384,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1410
+                    }
+                ]
+            }
+        },
+        {
+            "slotId": "MAGIC_STON",
+            "slotName": "Magic Stone",
+            "itemId": "34384922f08a1748310675f28eb014cc",
+            "itemName": "Promised Time for Victory",
+            "itemTypeId": "0013a170b9896b4f00054280030cd383",
+            "itemType": "Additional Equipment",
+            "itemTypeDetailId": "623a32cdd4fed47385e340897a9ffb6e",
+            "itemTypeDetail": "Magic Stone",
+            "itemAvailableLevel": 105,
+            "itemRarity": "Epic",
+            "setItemId": null,
+            "setItemName": null,
+            "reinforce": 12,
+            "itemGradeName": "Superior",
+            "enchant": {
+                "status": [
+                    {
+                        "name": "All Elemental Damage",
+                        "value": 30
+                    }
+                ]
+            },
+            "amplificationName": "Dimensional STR",
+            "refine": 0,
+            "growInfo": {
+                "total": {
+                    "damage": 15888,
+                    "buff": 5447,
+                    "level": 319
+                },
+                "options": [
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "Damage Value +1269 for every 7% of combined Physical/Magical Def. if below 50% HP\nSkill Atk. +8% at the max Damage Value stacks",
+                        "explainDetail": "Damage Value +1269 for every 7% of combined Physical/Magical Def. if below 50% HP (Max Stacks: 10)\nSkill Atk. +8% at the max Damage Value stacks",
+                        "damage": 4614,
+                        "default": {
+                            "damage": 1616,
+                            "buff": 466
+                        },
+                        "buff": 1329
+                    },
+                    {
+                        "level": 79,
+                        "expRate": 95.21,
+                        "explain": "Casts Super Armor every 20 sec. that's destroyed after 5 hits if your HP is below 50% and Physical/Magical Def. is 70% combined.",
+                        "explainDetail": "Casts Super Armor every 20 sec. that's destroyed after 5 hits if your HP is below 50% and Physical/Magical Def. is 70% combined.",
+                        "damage": 4506,
+                        "default": {
+                            "damage": 1616,
+                            "buff": 466
+                        },
+                        "buff": 1298
+                    },
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "Max MP +945",
+                        "explainDetail": "Max MP +945",
+                        "damage": 3384,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1410
+                    },
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "Movement Speed +8%",
+                        "explainDetail": "Movement Speed +8%",
+                        "damage": 3384,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1410
+                    }
+                ]
+            }
+        },
+        {
+            "slotId": "EARRING",
+            "slotName": "Earrings",
+            "itemId": "13d9545b70c266f21a666e3f3de6be0c",
+            "itemName": "Storm-devouring Energy",
+            "itemTypeId": "0013a170b9896b4f00054280030cd383",
+            "itemType": "Additional Equipment",
+            "itemTypeDetailId": "a0bb82b8e8e4b60335d6cc991f3a1908",
+            "itemTypeDetail": "Earrings",
+            "itemAvailableLevel": 105,
+            "itemRarity": "Epic",
+            "setItemId": null,
+            "setItemName": null,
+            "reinforce": 12,
+            "itemGradeName": "Superior",
+            "enchant": {
+                "status": [
+                    {
+                        "name": "Strength",
+                        "value": 150
+                    },
+                    {
+                        "name": "Intelligence",
+                        "value": 150
+                    },
+                    {
+                        "name": "Vitality",
+                        "value": 150
+                    },
+                    {
+                        "name": "Spirit",
+                        "value": 150
+                    }
+                ]
+            },
+            "amplificationName": "Dimensional STR",
+            "refine": 0,
+            "growInfo": {
+                "total": {
+                    "damage": 14379,
+                    "buff": 5445,
+                    "level": 319
+                },
+                "options": [
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "Consumables' MP healing effect +50%\nIf 50% or lower HP, Skill Atk. +10% and All Elemental Damage +15",
+                        "explainDetail": "Consumables' MP healing effect +50%\nIf 50% or lower HP, Skill Atk. +10% and All Elemental Damage +15",
+                        "damage": 3845,
+                        "default": {
+                            "damage": 1347,
+                            "buff": 466
+                        },
+                        "buff": 1329
+                    },
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "Skill MP cost -20%\nMax MP +4,196",
+                        "explainDetail": "Skill MP cost -20%\nMax MP +4,196",
+                        "damage": 3845,
+                        "default": {
+                            "damage": 1347,
+                            "buff": 466
+                        },
+                        "buff": 1329
+                    },
+                    {
+                        "level": 79,
+                        "expRate": 81.97,
+                        "explain": "Hit Rate +10%",
+                        "explainDetail": "Hit Rate +10%",
+                        "damage": 3305,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1377
+                    },
+                    {
+                        "level": 80,
+                        "expRate": 0,
+                        "explain": "Evasion +8%",
+                        "explainDetail": "Evasion +8%",
+                        "damage": 3384,
+                        "default": {
+                            "damage": 1186,
+                            "buff": 494
+                        },
+                        "buff": 1410
+                    }
+                ]
+            }
+        }
+    ],
+    "setItemInfo": []
+}
